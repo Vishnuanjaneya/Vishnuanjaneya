@@ -11,7 +11,7 @@
 |Django |[![Django](https://img.shields.io/badge/django-%23000.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.tutorialspoint.com/django/index.html)|
 |Database|[![Database](https://img.shields.io/badge/sql%20lite3-%231572B6.svg?style=for-the-badge&logo=sql%20lite3&logoColor=white)](https://www.w3schools.com/sql/)|
 |Tensorflow |[![Tensorflow](https://camo.githubusercontent.com/fec001b73f0253a3b7036f8cd5135d35797f0db64e9399903fc62e588e15ef43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d2532334646364630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465)](https://www.tutorialspoint.com/django/index.html)|
-|NLP |[![](https://dabuttonfactory.com/button.png?t=NLP&f=Open+Sans-Bold&ts=10&tc=fff&hp=20&vp=10&c=11&bgt=unicolored&bgc=00aeff)]
+|NLP |[![NLP](https://dabuttonfactory.com/button.png?t=NLP&f=Open+Sans-Bold&ts=10&tc=fff&hp=20&vp=10&c=11&bgt=unicolored&bgc=00aeff)]
 (https://www.ibm.com/cloud/learn/natural-language-processing#:~:text=Natural%20language%20processing%20(NLP)%20refers,same%20way%20human%20beings%20can.)|
 |IBM Cloud| [![](https://dabuttonfactory.com/button.png?t=IBM+Cloud&f=Open+Sans-Bold&ts=10&tc=fff&hp=20&vp=10&c=round&bgt=unicolored&bgc=0530ad)](https://developer.ibm.com/components/cloud-ibm/tutorials/)|
 |IBM Watson Assistant|[![](https://dabuttonfactory.com/button.png?t=IBM+Watson+Assistant&f=Open+Sans-Bold&ts=10&tc=fff&hp=20&vp=10&c=11&bgt=unicolored&bgc=0530ad)](https://developer.ibm.com/components/watson-assistant/tutorials/)|
