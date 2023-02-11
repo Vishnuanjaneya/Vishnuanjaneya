@@ -15,3 +15,20 @@
 |IBM Cloud| [![IBM Cloud](https://dabuttonfactory.com/button.png?t=IBM+Cloud&f=Open+Sans-Bold&ts=10&tc=fff&hp=20&vp=10&c=round&bgt=unicolored&bgc=0530ad)](https://developer.ibm.com/components/cloud-ibm/tutorials/)|
 |IBM Watson Assistant|[![IBM Watson Assistant](https://dabuttonfactory.com/button.png?t=IBM+Watson+Assistant&f=Open+Sans-Bold&ts=10&tc=fff&hp=20&vp=10&c=11&bgt=unicolored&bgc=0530ad)](https://developer.ibm.com/components/watson-assistant/tutorials/)|
 |Deep Learning |[![Deep Learning](https://dabuttonfactory.com/button.png?t=Deep+Learning&f=Open+Sans-Bold&ts=10&tc=fff&hp=20&vp=10&c=11&bgt=unicolored&bgc=0089ff)](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=builder-deep-learning-experiment-tutorial)|
+
+## 🌐 CONTRIBUTION:
+
+![](https://svgur.com/i/nQ2.svg)
+
+<!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
+
+<!--RECENT_ACTIVITY:last_update_end-->
+
+![Logo](https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg)
+<div align="center">
+ <h5> Made with <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="12" height="12">
