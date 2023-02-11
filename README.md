@@ -1,6 +1,6 @@
 ### Hi there I am Vishnu Thirumalai👋
 
-## 👨‍💻 Skills and Tech Stack
+## 👨‍💻 Technical Skills and Tech Stack
 |  **Technology/Languages/Frameworks**  | **Reference Link**  |
 | ------------- | ------------- |
 |Html|[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)|
