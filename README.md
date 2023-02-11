@@ -27,11 +27,4 @@
 
 <!--RECENT_ACTIVITY:last_update_end-->
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1280px-IBM_logo.svg.png" width="300" height="168" />
 
-
-![Logo](https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg)
-<div align="center">
- <h5> Made with <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="12" height="12">
