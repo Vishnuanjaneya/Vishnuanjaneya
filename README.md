@@ -1,5 +1,19 @@
 ### Hi there I am Vishnu Thirumalai👋
 
+🔭 I’m currently working on Developer-Portfolio
+
+🌱 I’m currently learning Mern Stack | Deep Learning
+
+👯 I’m looking to collaborate on OpenAI
+
+🤝 I’m looking for help with ChatGPT
+
+💬 Ask me about Machine Learning | Web Development | Git
+
+📫 How to reach me vishnuanjaneya9801@gmail.com
+
+⚡ Fun fact The biggest adventure you can ever take is to live the life of your dreams
+
 ## 👨‍💻 Technical Skills and Tech Stack
 |  **Technology/Languages/Frameworks**  | **Reference Link**  |
 | ------------- | ------------- |
