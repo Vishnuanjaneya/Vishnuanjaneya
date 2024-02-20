@@ -24,6 +24,13 @@
 | Dependabot        | ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)                         |
 | Google Assistant | ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)   |
 
+##🎨 Proficient in Design Tools
+| Tool    | Badge                                                                                                                               |
+|---------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Canva   | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)                          |
+| Dribbble| ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)                         |
+| Figma   | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)                          |
+
 
 ## 👨‍💻 Technical Skills and Tech Stack
 | Language         | Badge                                                                                                                                     |
