@@ -66,6 +66,9 @@
 | YAML             | ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)                                   |
 | Zig              | ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)                                       |
 
+![Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitharunajitharu&theme=blue-green&hide_border=false&include_all_commits=false&layout=compact)
+
+
 ## 🌐 CONTRIBUTION:
 
 ![](https://svgur.com/i/nQ2.svg)
