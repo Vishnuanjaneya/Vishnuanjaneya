@@ -82,7 +82,8 @@
 | YAML             | ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)                                   |
 | Zig              | ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)                                       |
 
-
+## 🏆GitHub Trophies
+https://camo.githubusercontent.com/e1d6c3b385c358075656781fec7ad11ac8a3e005f76230ebb4db1ba866e2c08b/68747470733a2f2f6769746875622d74726f70686965732e76657263656c2e6170702f3f757365726e616d653d6a737669676e6573686b616e6e61267468656d653d646973636f7264266e6f2d6672616d653d74727565266e6f2d62673d74727565266d617267696e2d773d34
 
 
 ## 🌐 CONTRIBUTION:
