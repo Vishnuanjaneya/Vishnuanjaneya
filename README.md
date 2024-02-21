@@ -40,13 +40,14 @@
 | LeetCode    | ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)                         |
 | Kaggle      | ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)                                  |
 
-
+## 📚 Frameworks, Platforms and Libraries
 | Technology            | Badge                                                                                                                              |
 |-----------------------|------------------------------------------------------------------------------------------------------------------------------------|
 | Anaconda              | ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)                        |
 | Angular               | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)                            |
 | AngularJS             | ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)                      |
 | Astro                | ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)       |
+| Bootstrap             | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)               |
 | Django                | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)                              |
 | Express.js            | ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)           |
 | FastAPI               | ![FastAPI](https://img.shields.io/badge/FastAPI-%23007D9C.svg?style=for-the-badge&logo=FASTAPI&logoColor=white)                    |
