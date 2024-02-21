@@ -40,6 +40,18 @@
 | LeetCode    | ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)                         |
 | Kaggle      | ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)                                  |
 
+## 💻 IDEs/Editors
+| Name          | Badge                                                                                                                               |
+|---------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Android Studio | ![Android Studio](https://img.shields.io/badge/Android%20Studio-%2300C853.svg?style=for-the-badge&logo=android-studio&logoColor=white) |
+| CodePen       | ![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=CodePen&logoColor=white)                    |
+| IntelliJ IDEA | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white) |
+| PyCharm       | ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)                    |
+| Spyder        | ![Spyder](https://img.shields.io/badge/Spyder-%232E8B57.svg?style=for-the-badge&logo=Spyder%20IDE&logoColor=white)                   |
+| Sublime Text  | ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?style=for-the-badge&logo=Sublime%20Text&logoColor=white)   |
+| Visual Studio Code | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white) |
+
+
 ## 📚 Frameworks, Platforms and Libraries
 | Technology            | Badge                                                                                                                              |
 |-----------------------|------------------------------------------------------------------------------------------------------------------------------------|
@@ -63,13 +75,27 @@
 | React                 | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)                          |
 | Styled Components     | ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) |
 | TailwindCSS           | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)           |
-| TensorFlow            | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)       |
 | Three.js              | ![Three.js](https://img.shields.io/badge/three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)                    |
 | Vite                  | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)                                       |
 
+## 🖥️ ML/DL
+| Libraries           | Badge                                                                                                                                |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Keras          | ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)                            |
+| Matplotlib     | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)             |
+| mlflow         | ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)                           |
+| NumPy          | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)                            |
+| Pandas         | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)                         |
+| Plotly         | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)                         |
+| PyTorch        | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)                      |
+| scikit-learn   | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)      |
+| SciPy          | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)                          |
+| TensorFlow     | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)             |
 
 
-## 👨‍💻 Technical Skills and Tech Stack
+
+
+## 📋 Technical Skills and Tech Stack
 | Language         | Badge                                                                                                                                     |
 |------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | Apache Groovy    | ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)          |
