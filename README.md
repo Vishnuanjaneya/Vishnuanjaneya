@@ -47,6 +47,7 @@
 | CodePen       | ![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=CodePen&logoColor=white)                    |
 | IntelliJ IDEA | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white) |
 | PyCharm       | ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)                    |
+| Replit        |  ![Replit](https://img.shields.io/badge/Replit-%230077B5.svg?style=for-the-badge&logo=replit&logoColor=white)                        |
 | Spyder        | ![Spyder](https://img.shields.io/badge/Spyder-%232E8B57.svg?style=for-the-badge&logo=Spyder%20IDE&logoColor=white)                   |
 | Sublime Text  | ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?style=for-the-badge&logo=Sublime%20Text&logoColor=white)   |
 | Visual Studio Code | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white) |
