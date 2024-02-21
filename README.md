@@ -31,6 +31,15 @@
 | Dribbble| ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)                         |
 | Figma   | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)                          |
 
+## 🧑‍💻 Developer/Forums
+| Platform    | Badge                                                                                                                                   |
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| CodePen     | ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)                              |
+| HackerEarth | ![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)           |
+| HackerRank  | ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)                   |
+| LeetCode    | ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)                         |
+| Kaggle      | ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)                                  |
+
 
 ## 👨‍💻 Technical Skills and Tech Stack
 | Language         | Badge                                                                                                                                     |
