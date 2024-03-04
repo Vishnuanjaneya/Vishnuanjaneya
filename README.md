@@ -90,8 +90,10 @@
 | Plotly         | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)                         |
 | PyTorch        | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)                      |
 | scikit-learn   | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)      |
-| SciPy          | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)                          |
+| SciPy          | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)                           |
 | TensorFlow     | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)             |
+| MediaPipe      | ![MediaPipe](https://img.shields.io/badge/MediaPipe-%2300A5E6.svg?style=for-the-badge&logo=MediaPipe&logoColor=white)                |
+
 
 
 
