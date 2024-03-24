@@ -53,6 +53,8 @@
 | Visual Studio Code | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white) |
 
 
+## 📚 Frameworks, Platforms and Libraries
+
 | Technology            | Badge                                                                                                                              |
 |-----------------------|------------------------------------------------------------------------------------------------------------------------------------|
 | Anaconda              | ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)                        |
