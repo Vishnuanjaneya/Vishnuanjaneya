@@ -64,6 +64,8 @@
 | Django                | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)                              |
 | Express.js            | ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)           |
 | FastAPI               | ![FastAPI](https://img.shields.io/badge/FastAPI-%23007D9C.svg?style=for-the-badge&logo=FASTAPI&logoColor=white)                    |
+| Firebase              | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)                        |
+
 | Flask                 | ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)                              |
 | Flutter               | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)                      |
 | MediaPipe             | ![MediaPipe](https://img.shields.io/badge/MediaPipe-%230077B5.svg?style=for-the-badge&logo=MediaPipe&logoColor=white)            |
