@@ -34,9 +34,10 @@
     <br>
 </p>
 
-<div style="text-align:center;">
+<p align="center">
   <img src="https://github.com/abranhe/programming-languages-logos/raw/master/src/programming-languages.gif" alt="Programming Languages">
-</div>
+</p>
+
 
 
 🔭 I’m currently working on Developer-Portfolio
