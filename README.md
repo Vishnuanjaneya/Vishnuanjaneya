@@ -20,7 +20,6 @@
     <b>High Resolution Programming Languages Logos</b>
     <br>
     <br>
-    <a href="https://languages.abranhe.com"><code>languages.abranhe.com</code></a>
 </p>
 
 <p align="center">
