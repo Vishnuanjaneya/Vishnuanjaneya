@@ -34,7 +34,10 @@
     <br>
 </p>
 
-![Programming Languages](https://github.com/abranhe/programming-languages-logos/raw/master/src/programming-languages.gif)
+<div style="text-align:center;">
+  <img src="https://github.com/abranhe/programming-languages-logos/raw/master/src/programming-languages.gif" alt="Programming Languages">
+</div>
+
 
 🔭 I’m currently working on Developer-Portfolio
 
