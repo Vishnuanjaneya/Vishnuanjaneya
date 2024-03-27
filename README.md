@@ -24,17 +24,6 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/abrahamcalf/programming-languages-logos/actions"><img src="https://github.com/abrhaamcalf/programming-languages-logos/workflows/publish/badge.svg" /></a>
-    <a href="https://github.com/abrhaamcalf/programming-languages-logos"><img src="https://img.shields.io/npm/v/programming-languages-logos.svg?logo=npm" /></a>
-	<a href="https://github.com/abrhaamcalf/programming-languages-logos/blob/master/license"><img src="https://img.shields.io/github/license/abrhaamcalf/programming-languages-logos.svg" /></a>
-    <a href="https://github.com/abrhaamcalf/programming-languages-logos"><img src="https://img.shields.io/github/repo-size/abrhaamcalf/programming-languages-logos.svg?logo=github"></a>
-    <br>
-    <br>
-    <b><a href="https://github.com/abrhaamcalf/react-pll">Using React?</a></b>
-    <br>
-</p>
-
-<p align="center">
   <img src="https://github.com/abranhe/programming-languages-logos/raw/master/src/programming-languages.gif" alt="Programming Languages">
 </p>
 
