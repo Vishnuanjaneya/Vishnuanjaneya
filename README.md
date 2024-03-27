@@ -43,10 +43,24 @@
 ⚡ Fun fact The biggest adventure you can ever take is to live the life of your dreams
 
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
-  <path fill="#3776AB" d="M25.2 117.1c-2.6 0-5.2-1-7.2-3L.7 97.2c-4.7-4.7-4.7-12.3 0-17l50.2-50.2c4-4 10.4-4 14.4 0 4 4 4 10.4 0 14.4L17.8 94.7c-1.4 1.4-2.1 3.3-2.1 5.2s.7 3.8 2.1 5.2c1.9 1.4 4.6 1.4 6.4 0l24.3-24.3c4-4 10.4-4 14.4 0 4 4 4 10.4 0 14.4L32.3 113.1c-2 2-4.6 4-7.1 4zM114.3 99.9c-1.9 0-3.8-.7-5.2-2.1L84.8 73.4c-4-4-4-10.4 0-14.4 4-4 10.4-4 14.4 0l24.3 24.3c4 4 4 10.4 0 14.4-2.2 2.1-5.1 3.1-8 3.1zM108.3 63.1c-1.9 0-3.8-.7-5.2-2.1L63.1 18.8c-4-4-4-10.4 0-14.4 4-4 10.4-4 14.4 0L117.5 46c4 4 4 10.4 0 14.4-2.1 2.2-5.1 3.1-9.2 3.1z"/>
-</svg>
+<p align='left'>
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C language" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++ language" height="50" width="50" /> 
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="50" width="50" /> 
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" alt="java" height="50" width="50" /> 
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" alt="bablubambal" height="50" width="50" /> 
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" alt="bablubambal" height="50" width="50" /> 
 
+<p align='left'>
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="Html" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" alt="CSS" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="50" width="50" /> 
+<p align='left'>
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/php.svg" alt="php" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg" alt="node js" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="50" width="50" /> 
+
+</p>
 
 ## 🤖 Experience in Artificial Intelligence and Bots
 | Name              | Badge                                                                                                                                        |
